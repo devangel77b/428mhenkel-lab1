@@ -1,0 +1,13 @@
+1. This is a review of the manuscript by Henkel, Kotilingala, Kuletski, and Pradhan, entitled "Verifying Tartaglia's principle..." submitted as a research artile to J S&E. I recommend minor revisions.
+
+2. The manuscript is generally well written and can do with minor edits during final copyediting stage.
+
+3. Sources for statements about what Tartaglia's principle (and other theory related to him) as well as alternatives (Galileo, Newton) should be provided. It is important to set up what all the different alternative hypotheses are and how they will be tested. The MS focuses on 45 deg but there is more to it that they really should include.
+
+4. In methods and materials - key equipment such as the marble and the shooter need to have specifications or sources given.
+
+5. Distances are given in cm throughout but they should be given in straight SI MKS (meter kilogram seconds).
+
+6. In fig 1 - is there any way to show or illustrate the path of the marble (and comment on whether it fits what Tartaglia or Galileo+Newton would predict)? As given fig 1 is a setup figure that could be more easily accomplished as a drawing. 
+
+7. It is never explained why Tartaglia's table values need to be interpolated or where they come from. The MS should comment on the large discrepancy at 0 launch angle (e.g. point blank range) as Tartaglia's tables are scaled based on point blank range. The discussion should do a little more to comment on limitations of the different theories and weigh in better on what is supported versus what is not.
